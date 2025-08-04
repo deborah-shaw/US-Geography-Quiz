@@ -33,63 +33,44 @@ You can [Try it yourself](https://deborah-shaw.github.io/US-Geography-Quiz/).
 
 ## 🛠️ Tech Used
 
-    HTML5 – Structuring the quiz interface
-
-    CSS3 – Custom styling
-
-    Bootstrap 5 – Responsive layout & design
-
-    JavaScript – Handles quiz grading, validation, and feedback
-
-    Underscore.js – For randomizing choices in some questions
-
-    Local Storage – Tracks past scores and attempts
+- HTML5 – Structuring the quiz interface
+- CSS3 – Custom styling
+- Bootstrap 5 – Responsive layout & design
+- JavaScript – Handles quiz grading, validation, and feedback
+- Underscore.js – For randomizing choices in some questions
+- Local Storage – Tracks past scores and attempts
 
 ## ✅ How to Play
 
-    Answer all 10 geography questions.
-
-    Click "Submit Quiz".
-
-    See your score and whether you passed.
-
-    Check your past attempts in the sidebar.
-
-    Refresh or revisit the page to try again!
+1. Answer all 10 geography questions.
+2. Click "Submit Quiz".
+3. See your score and whether you passed.
+4. Check your past attempts in the sidebar.
+5. Refresh or revisit the page to try again!
 
 ## 🧠 Behind the Scenes
 
 This quiz uses:
 
-    Math.random() and _.shuffle() for randomized options
-
-    Event listeners and form validation for interactive play
-
-    Local storage to preserve score history
-
-    Conditional logic to handle multiple input types (text, select, checkboxes, radio)
-
-    Bootstrap and semantic HTML for responsive UI
+- Math.random() and _.shuffle() for randomized options
+- Event listeners and form validation for interactive play
+- Local storage to preserve score history
+- Conditional logic to handle multiple input types (text, select, checkboxes, radio)
+- Bootstrap and semantic HTML for responsive UI
 
 ## 🐛 Known Issues
 
-    🖱️ Submit button is not disabled if required fields are missing
-
-    ❗️ No reset button for full form clear (currently requires page refresh)
-
-    💬 Feedback icons can overlap on smaller screens
+- 🖱️ Submit button is not disabled if required fields are missing
+- ❗️ No reset button for full form clear (currently requires page refresh)
+- 💬 Feedback icons can overlap on smaller screens
 
 ## 💡 Future Improvements
 
-    🔊 Sound effects on correct/wrong answers
-
-    📱 Improved mobile layout
-
-    🧩 Add difficulty modes or timed version
-
-    💾 High score leaderboard
-
-    🎨 Dark/light mode toggle
+- 🔊 Sound effects on correct/wrong answers
+- 📱 Improved mobile layout
+- 🧩 Add difficulty modes or timed version
+- 💾 High score leaderboard
+- 🎨 Dark/light mode toggle
 
 ## 📄 License
 
