@@ -4,19 +4,13 @@ An interactive browser-based quiz that tests your knowledge of U.S. geography th
 
 ## 🕹️ Game Features
 
-    ✅ 10 diverse geography questions: multiple choice, checkboxes, and text inputs
-
-    📊 Tracks your score and attempts using local storage
-
-    🎯 Immediate feedback after each answer
-
-    🏆 Displays past scores and passing status
-
-    💬 Includes correct answers for learning
-
-    🎨 Clean, colorful UI with Bootstrap 5 styling
-
-    🔁 Shuffle-based questions to keep it fresh each time
+- ✅ 10 diverse geography questions: multiple choice, checkboxes, and text inputs
+- 📊 Tracks your score and attempts using local storage
+- 🎯 Immediate feedback after each answer
+- 🏆 Displays past scores and passing status
+- 💬 Includes correct answers for learning
+- 🎨 Clean, colorful UI with Bootstrap 5 styling
+- 🔁 Shuffle-based questions to keep it fresh each time
 
 ## 🚀 Live Demo
 
