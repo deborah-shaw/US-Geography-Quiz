@@ -1,7 +1,8 @@
-🌎 US Geography Quiz
+# 🌎 US Geography Quiz
 
 An interactive browser-based quiz that tests your knowledge of U.S. geography through 10 varied questions. Fun, educational, and responsive — with instant feedback and score tracking!
-🕹️ Game Features
+
+## 🕹️ Game Features
 
     ✅ 10 diverse geography questions: multiple choice, checkboxes, and text inputs
 
@@ -17,11 +18,14 @@ An interactive browser-based quiz that tests your knowledge of U.S. geography th
 
     🔁 Shuffle-based questions to keep it fresh each time
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-Try it out in your browser (add your link here when deployed).
-🗂️ Project Structure
+You can [Try it yourself](https://deborah-shaw.github.io/US-Geography-Quiz/).
 
+
+## 🗂️ Project Structure
+
+```text
 📦 us-geography-quiz/
  ┣ 📁 css/
  ┃ ┗ 📄 style.css              # 💅 Custom styles
@@ -31,8 +35,9 @@ Try it out in your browser (add your link here when deployed).
  ┃ ┗ 📄 script.js              # 🧠 Core game logic
  ┣ 📄 index.html               # 🏠 Main UI and quiz layout
  ┗ 📄 README.md                # 📖 Project info
+```
 
-🛠️ Tech Used
+## 🛠️ Tech Used
 
     HTML5 – Structuring the quiz interface
 
@@ -46,7 +51,7 @@ Try it out in your browser (add your link here when deployed).
 
     Local Storage – Tracks past scores and attempts
 
-✅ How to Play
+## ✅ How to Play
 
     Answer all 10 geography questions.
 
@@ -58,7 +63,7 @@ Try it out in your browser (add your link here when deployed).
 
     Refresh or revisit the page to try again!
 
-🧠 Behind the Scenes
+## 🧠 Behind the Scenes
 
 This quiz uses:
 
@@ -72,7 +77,7 @@ This quiz uses:
 
     Bootstrap and semantic HTML for responsive UI
 
-🐛 Known Issues
+## 🐛 Known Issues
 
     🖱️ Submit button is not disabled if required fields are missing
 
@@ -80,7 +85,7 @@ This quiz uses:
 
     💬 Feedback icons can overlap on smaller screens
 
-💡 Future Improvements
+## 💡 Future Improvements
 
     🔊 Sound effects on correct/wrong answers
 
@@ -92,6 +97,6 @@ This quiz uses:
 
     🎨 Dark/light mode toggle
 
-📄 License
+## 📄 License
 
 This project is open source under the MIT License.
