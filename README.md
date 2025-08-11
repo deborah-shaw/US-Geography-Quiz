@@ -60,9 +60,9 @@ This quiz uses:
 
 ## 🐛 Known Issues
 
-- 🖱️ Submit button is not disabled if required fields are missing
-- ❗️ No reset button for full form clear (currently requires page refresh)
-- 💬 Feedback icons can overlap on smaller screens
+- 🖱️ Submit button is not disabled if required fields are missing (pending)
+- ❗️ No reset button for full form clear (currently requires page refresh), (pending)
+- 💬 Feedback icons can overlap on smaller screens (pending)
 
 ## 💡 Future Improvements
 
